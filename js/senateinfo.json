@@ -1,0 +1,2502 @@
+[
+ {
+        "stateName": "Alabama",
+        "abreviation": "AL",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Shelby",
+                        "firstName": "Richard",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Sessions",
+                        "firstName": "Jeff",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Alaska",
+        "abreviation": "AK",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Murkowski",
+                        "firstName": "Lisa",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Sullivan",
+                        "firstName": "Daniel",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Arizona",
+        "abreviation": "AZ",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Flake",
+                        "firstName": "Jeff",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "McCain",
+                        "firstName": "John",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Arkansas",
+        "abreviation": "AR",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Boozman",
+                        "firstName": "John",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Cotton",
+                        "firstName": "Tom",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "California",
+        "abreviation": "CA",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Boxer",
+                        "firstName": "Barbara",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Feinstein",
+                        "firstName": "Dianne",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Colorado",
+        "abreviation": "CO",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Michael",
+                        "firstName": "Bennet",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Gardner",
+                        "firstName": "Cory",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Connecticut",
+        "abreviation": "CT",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Blumenthal",
+                        "firstName": "Richard",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Murphy",
+                        "firstName": "Christopher",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Delaware",
+        "abreviation": "DE",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Carper",
+                        "firstName": "Thomas",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Coons",
+                        "firstName": "Christopher",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Florida",
+        "abreviation": "FL",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Nelson",
+                        "firstName": "Bill",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Rubio",
+                        "firstName": "Marco",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Georgia",
+        "abreviation": "GA",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Isakson",
+                        "firstName": "Johnny",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Perdue",
+                        "firstName": "David",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Hawaii",
+        "abreviation": "HI",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Hirono",
+                        "firstName": "Mazie",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Schatz",
+                        "firstName": "Brian",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Idaho",
+        "abreviation": "ID",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Crapo",
+                        "firstName": "Mike",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Risch",
+                        "firstName": "James",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Illanois",
+        "abreviation": "IL",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Durbin",
+                        "firstName": "Richard",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Kirk",
+                        "firstName": "Mark",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Indian",
+        "abreviation": "IN",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Coats",
+                        "firstName": "Daniel",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Donnelly",
+                        "firstName": "Joe",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Iowa",
+        "abreviation": "IA",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Ernst",
+                        "firstName": "Joni",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Grassley",
+                        "firstName": "Chuck",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Kansas",
+        "abreviation": "KS",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Moran",
+                        "firstName": "Jerry",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Roberts",
+                        "firstName": "Pat",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Kentucky",
+        "abreviation": "KY",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "McConnell",
+                        "firstName": "Mitch",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Paul",
+                        "firstName": "Rand",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Louisiana",
+        "abreviation": "LA",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Cassidy",
+                        "firstName": "Bill",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Vitter",
+                        "firstName": "David",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Maine",
+        "abreviation": "ME",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Collins",
+                        "firstName": "Susan",
+                        "party": "Republcan"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "King",
+                        "firstName": "Angus",
+                        "party": "Independant"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Maryland",
+        "abreviation": "MD",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Benjamin",
+                        "firstName": "Cardin",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Mikulski",
+                        "firstName": "Barbara",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Massachusetts",
+        "abreviation": "MA",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Markey",
+                        "firstName": "Edward",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Warren",
+                        "firstName": "Elizabeth",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Michigan",
+        "abreviation": "MI",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Peters",
+                        "firstName": "Gary",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Stabenow",
+                        "firstName": "Debbie",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Minnesota",
+        "abreviation": "MN",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Franken",
+                        "firstName": "Al",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Klobuchar",
+                        "firstName": "Amy",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Mississippi",
+        "abreviation": "MS",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Cochran",
+                        "firstName": "Thad",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Wicker",
+                        "firstName": "Roger",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Missouri",
+        "abreviation": "MO",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Blunt",
+                        "firstName": "Roy",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "McCaskill",
+                        "firstName": "Claire",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Montana",
+        "abreviation": "MT",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Daines",
+                        "firstName": "Steve",
+                        "party": "Republcian"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Tester",
+                        "firstName": "Jon",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Nebraska",
+        "abreviation": "NE",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Fischer",
+                        "firstName": "Deb",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Sasse",
+                        "firstName": "Ben",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Nevada",
+        "abreviation": "NV",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Heller",
+                        "firstName": "Dean",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Reid",
+                        "firstName": "Harry",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "New Hampshire",
+        "abreviation": "NH",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Ayotte",
+                        "firstName": "Kelly",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Shaheen",
+                        "firstName": "Jeanne",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "New Jersey",
+        "abreviation": "NJ",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Booker",
+                        "firstName": "Cory",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Menendez",
+                        "firstName": "Robert",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "New Mexico",
+        "abreviation": "NM",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Heinrich",
+                        "firstName": "Martin",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Udall",
+                        "firstName": "Tom",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "New York",
+        "abreviation": "NY",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Gillibrand",
+                        "firstName": "Kirsten",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Schumer",
+                        "firstName": "Charles",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "North Carolina",
+        "abreviation": "NC",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Burr",
+                        "firstName": "Richard",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Tillis",
+                        "firstName": "Thom",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "North Dakota",
+        "abreviation": "ND",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Heitkamp",
+                        "firstName": "Heidi",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Hoeven",
+                        "firstName": "John",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Ohio",
+        "abreviation": "OH",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Brown",
+                        "firstName": "Sherrod",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Portman",
+                        "firstName": "Rob",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Oklahoma",
+        "abreviation": "OK",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Inhofe",
+                        "firstName": "James",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Lankford",
+                        "firstName": "James",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Oregon",
+        "abreviation": "OR",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Merkley",
+                        "firstName": "Jeff",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Wyden",
+                        "firstName": "Ron",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Pennsylvania",
+        "abreviation": "PA",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Casey",
+                        "firstName": "Robert",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Toomey",
+                        "firstName": "Patrick",
+                        "party": ""
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Rhode Island",
+        "abreviation": "RI",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Reed",
+                        "firstName": "Jack",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Whitehouse",
+                        "firstName": "Sheldon",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "South Carolina",
+        "abreviation": "SC",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Graham",
+                        "firstName": "Lindsay",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Scott",
+                        "firstName": "Tim",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "South",
+        "abreviation": "Dakota",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Rounds",
+                        "firstName": "Mike",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Thune",
+                        "firstName": "John",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Tenessee",
+        "abreviation": "TN",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Alexander",
+                        "firstName": "Lamar",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Corker",
+                        "firstName": "Bob",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Texas",
+        "abreviation": "TX",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Cornyn",
+                        "firstName": "John",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Cruz",
+                        "firstName": "Ted",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Utah",
+        "abreviation": "UT",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Hatch",
+                        "firstName": "Orrin",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Lee",
+                        "firstName": "Mike",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Vermont",
+        "abreviation": "VT",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Leahy",
+                        "firstName": "Patrick",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Sanders",
+                        "firstName": "Bernard",
+                        "party": "Independant"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Virginia",
+        "abreviation": "VA",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Kaine",
+                        "firstName": "Tim",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Warner",
+                        "firstName": "Mark",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Washington",
+        "abreviation": "WA",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Cantwell",
+                        "firstName": "Maria",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Murray",
+                        "firstName": "Patty",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "West Virginia",
+        "abreviation": "WV",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Capito",
+                        "firstName": "Shelley",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Manchin",
+                        "firstName": "Joe",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Wisconsin",
+        "abreviation": "WI",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Baldwin",
+                        "firstName": "Tammy",
+                        "party": "Democrat"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Johnson",
+                        "firstName": "Ron",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "yes",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stateName": "Wyoming",
+        "abreviation": "WY",
+        "seat": [
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Barrasso",
+                        "firstName": "John",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            },
+            {
+                "incumbent": [
+                    {
+                        "lastName": "Enzi",
+                        "firstName": "Michael",
+                        "party": "Republican"
+                    }
+                ],
+                "contested": "no",
+                "candidate": [
+                    {
+                        "lastName": "",
+                        "firstName": "",
+                        "party": "",
+                        "bio": "",
+                        "image": "",
+                        "platform1": "",
+                        "platform2": "",
+                        "platform3": ""
+                    }
+                ]
+            }
+        ]
+    }
+  ]
