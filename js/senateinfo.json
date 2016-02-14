@@ -14,14 +14,14 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Richard",
+                        "firstName": "Shelby",
+                        "party": "Republican",
+                        "bio": "Richard Shelby is a Republican Senator from Alabam. He recieved his degree in law from the Birmingham School of Law.",
+                        "image": "../richard-shelby.jpg",
+                        "platform1": "Shelby is Pro-life.",
+                        "platform2": "Shelby believes marriage is between a man and woman.",
+                        "platform3": "Shely wants stronger immigration laws and security."
                     }
                 ]
             },
