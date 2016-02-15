@@ -20,15 +20,17 @@
 
         <div class="container" ng-controller="BaseController as base">
             
-            <h2></h2>
-  <div ng-repeat= "senateSeats in base.senateData" class="panel-group">
+            <input ng-model="search" type="text" class="form-control" placeholder="Search for...">
+            
+            
+  <div ng-repeat= "senateSeats in base.senateData | filter: search" class="panel-group" id="accordion">
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" ng-click= "base.collapseState(senateSeats.stateName)" ng-href="{{ '#collapse' + senateSeats.stateName }}">{{senateSeats.stateName}}</a>
+          <a data-toggle="collapse" data-parent="#accordion" ng-click= "base.collapseState(senateSeats.stateName)" ng-href="{{ '#collapse' + senateSeats.stateName }}">{{senateSeats.stateName}}</a>
         </h4>
       </div>
-      <div ng-repeat= "senateSeats in base.senateData" ng-attr-id="{{ 'collapse' + senateSeats.stateName }}" base. class="panel-collapse collapse">
+      <div ng-repeat= "senateSeats in base.senateData" ng-attr-id="{{ 'collapse' + senateSeats.stateName }}" class="panel-collapse collapse">
         <div ng-repeat="office in senateSeats.seat" class="panel-body party-color">{{senateSeats.abreviation}} {{office.incumbent}} {{office.contested}}</div>
       </div>
     </div>
