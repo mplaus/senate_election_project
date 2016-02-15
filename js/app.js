@@ -4,6 +4,7 @@ var app = angular.module('myApp', []);
 
     this.senateData = [ ];
     var _this = this;
+    this.currentState = 0;
     
     $http.get('js/senateinfo.json')
         .success(function(data) {
@@ -13,5 +14,20 @@ var app = angular.module('myApp', []);
         .error(function(msg) {
             console.log("Error");
         })
+        
+        
+        this.collapseState = function() {
+            
+    this.currentState++;
+    if (this.currentState > this.senateData.length - 1) {
+      this.currentState = 0;
+    }
+  };
+  
+  this.setState = function(data){
+    this.currentState = this.senateData.indexOf(data);
+    console.log(currentState);
+  };
+   
 
 }]);
