@@ -30,37 +30,12 @@
       <div ng-repeat= "senateSeats in base.senateData" ng-attr-id="{{ 'collapse' + base.setCurrentState() }}" base. class="panel-collapse collapse">
         <div class="panel-body">{{senateSeats.abreviation}}</div>
         <div class="panel-body">{{senateSeats.abreviation}}</div>
-        <div class="panel-footer">Panel Footer</div>
+        <div ng-repeat="office in senateSeats.seat" class="panel-footer">Seat open: {{office.contested}}</div>
       </div>
     </div>
   </div>
 
-            <h2>Striped Rows</h2>
-  <p>The .table-striped class adds zebra-stripes to a table:</p>            
-  <table class="table table-striped">
-    <thead>
-      <tr>
-        <th>State</th>
-        <th>Lastname</th>
-        <th>Email</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr ng-repeat= "senateSeats in base.senateData">
-      <td>{{senateSeats.stateName}}</td>
-      </tr>
-      <tr>
-        <td>Mary</td>
-        <td>Moe</td>
-        <td>mary@example.com</td>
-      </tr>
-      <tr>
-        <td>July</td>
-        <td>Dooley</td>
-        <td>july@example.com</td>
-      </tr>
-    </tbody>
-  </table>
+            
   
   
 
