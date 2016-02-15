@@ -12,6 +12,7 @@
 
         <!-- css -->
         <link rel="stylesheet" href="css/bootstrap.css" />
+        <link rel="stylesheet" href="css/style.css" />
         
     </head>
 
@@ -24,13 +25,11 @@
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" ng-click= "base.collapseState()" ng-href="#{{ 'collapse' + base.setCurrentState() }}">{{senateSeats.stateName}}</a>
+          <a data-toggle="collapse" ng-click= "base.collapseState(senateSeats.stateName)" ng-href="{{ '#collapse' + senateSeats.stateName }}">{{senateSeats.stateName}}</a>
         </h4>
       </div>
-      <div ng-repeat= "senateSeats in base.senateData" ng-attr-id="{{ 'collapse' + base.setCurrentState() }}" base. class="panel-collapse collapse">
-        <div class="panel-body">{{senateSeats.abreviation}}</div>
-        <div class="panel-body">{{senateSeats.abreviation}}</div>
-        <div ng-repeat="office in senateSeats.seat" class="panel-footer">Seat open: {{office.contested}}</div>
+      <div ng-repeat= "senateSeats in base.senateData" ng-attr-id="{{ 'collapse' + senateSeats.stateName }}" base. class="panel-collapse collapse">
+        <div ng-repeat="office in senateSeats.seat" class="panel-body party-color">{{senateSeats.abreviation}} {{office.incumbent}} {{office.contested}}</div>
       </div>
     </div>
   </div>
