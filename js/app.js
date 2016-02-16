@@ -27,6 +27,15 @@ var app = angular.module('myApp', []);
   this.setState = function(data){
     this.currentState = this.senateData.indexOf(data);
   };
+  
+    this.contestedSeat = function(election){
+        if (election == "yes") {
+            return "is not";
+        }
+        else {
+            return "is"
+        }
+    }
    
 
 }]);

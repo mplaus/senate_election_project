@@ -8,7 +8,8 @@
                     {
                         "lastName": "Shelby",
                         "firstName": "Richard",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/richard-shelby.jpg"
                     }
                 ],
                 "contested": "yes",
@@ -30,7 +31,8 @@
                     {
                         "lastName": "Sessions",
                         "firstName": "Jeff",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/jeff-sessions.jpg"
                     }
                 ],
                 "contested": "no",
@@ -58,17 +60,18 @@
                     {
                         "lastName": "Murkowski",
                         "firstName": "Lisa",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/lisa-murkowski.jpg"
                     }
                 ],
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
+                        "lastName": "Murkowski",
+                        "firstName": "Lisa",
+                        "party": "Republican",
                         "bio": "",
-                        "image": "",
+                        "image": "../images/lisa-murkowski.jpg",
                         "platform1": "",
                         "platform2": "",
                         "platform3": ""
@@ -80,7 +83,8 @@
                     {
                         "lastName": "Sullivan",
                         "firstName": "Daniel",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/dan-sullivan.jpg"
                     }
                 ],
                 "contested": "no",
@@ -108,7 +112,8 @@
                     {
                         "lastName": "Flake",
                         "firstName": "Jeff",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/jeff-flake.jpg"
                     }
                 ],
                 "contested": "no",
@@ -130,16 +135,17 @@
                     {
                         "lastName": "McCain",
                         "firstName": "John",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/john-mccain.jpg"
                     }
                 ],
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
+                        "lastName": "McCain",
+                        "firstName": "John",
+                        "party": "Republican",
+                        "bio": "../images/john-mccain.jpg",
                         "image": "",
                         "platform1": "",
                         "platform2": "",
@@ -158,17 +164,18 @@
                     {
                         "lastName": "Boozman",
                         "firstName": "John",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/john-boozman.jpg"
                     }
                 ],
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
+                        "lastName": "Boozman",
+                        "firstName": "John",
+                        "party": "Republican",
                         "bio": "",
-                        "image": "",
+                        "image": "../images/john-boozman.jpg",
                         "platform1": "",
                         "platform2": "",
                         "platform3": ""
@@ -180,7 +187,8 @@
                     {
                         "lastName": "Cotton",
                         "firstName": "Tom",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/tom-cotton.jpg"
                     }
                 ],
                 "contested": "no",
@@ -208,7 +216,8 @@
                     {
                         "lastName": "Boxer",
                         "firstName": "Barbara",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/barbara-boxer.jpg"
                     }
                 ],
                 "contested": "yes",
@@ -230,7 +239,8 @@
                     {
                         "lastName": "Feinstein",
                         "firstName": "Dianne",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/dianne-feinstein.jpg"
                     }
                 ],
                 "contested": "no",
@@ -258,17 +268,18 @@
                     {
                         "lastName": "Michael",
                         "firstName": "Bennet",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/michael-bennet.jpg"
                     }
                 ],
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
+                        "lastName": "Bennet",
+                        "firstName": "Michael",
+                        "party": "Democrat",
                         "bio": "",
-                        "image": "",
+                        "image": "../images/michael-bennet.jpg",
                         "platform1": "",
                         "platform2": "",
                         "platform3": ""
@@ -280,7 +291,8 @@
                     {
                         "lastName": "Gardner",
                         "firstName": "Cory",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/cory-gardner.jpg"
                     }
                 ],
                 "contested": "no",
@@ -308,17 +320,18 @@
                     {
                         "lastName": "Blumenthal",
                         "firstName": "Richard",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/richard-blumenthal.jpg"
                     }
                 ],
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
+                        "lastName": "Blumenthal",
+                        "firstName": "Richard",
+                        "party": "Democrat",
                         "bio": "",
-                        "image": "",
+                        "image": "../images/richard-blumenthal.jpg",
                         "platform1": "",
                         "platform2": "",
                         "platform3": ""
@@ -330,7 +343,8 @@
                     {
                         "lastName": "Murphy",
                         "firstName": "Christopher",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/christopher-murphey.jpg"
                     }
                 ],
                 "contested": "no",
@@ -358,7 +372,8 @@
                     {
                         "lastName": "Carper",
                         "firstName": "Thomas",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/thomas-carper.jpg"
                     }
                 ],
                 "contested": "no",
@@ -380,7 +395,8 @@
                     {
                         "lastName": "Coons",
                         "firstName": "Christopher",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/christopher-coons.jpg"
                     }
                 ],
                 "contested": "no",
@@ -408,7 +424,8 @@
                     {
                         "lastName": "Nelson",
                         "firstName": "Bill",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/bill-nelson.jpg"
                     }
                 ],
                 "contested": "no",
@@ -430,7 +447,8 @@
                     {
                         "lastName": "Rubio",
                         "firstName": "Marco",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/marco-rubio.jpg"
                     }
                 ],
                 "contested": "yes",
@@ -458,7 +476,8 @@
                     {
                         "lastName": "Isakson",
                         "firstName": "Johnny",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/johnny-isakson.jpg"
                     }
                 ],
                 "contested": "yes",
@@ -480,7 +499,8 @@
                     {
                         "lastName": "Perdue",
                         "firstName": "David",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/david-perdue.jpg"
                     }
                 ],
                 "contested": "no",
@@ -508,7 +528,8 @@
                     {
                         "lastName": "Hirono",
                         "firstName": "Mazie",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/mazie-hirono.jpg"
                     }
                 ],
                 "contested": "no",
@@ -530,7 +551,8 @@
                     {
                         "lastName": "Schatz",
                         "firstName": "Brian",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/brian-schatz.jpg"
                     }
                 ],
                 "contested": "yes",
@@ -558,7 +580,8 @@
                     {
                         "lastName": "Crapo",
                         "firstName": "Mike",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/mike-crapo.jpg"
                     }
                 ],
                 "contested": "yes",
@@ -580,7 +603,8 @@
                     {
                         "lastName": "Risch",
                         "firstName": "James",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/james-risch.jpg"
                     }
                 ],
                 "contested": "no",
@@ -608,7 +632,8 @@
                     {
                         "lastName": "Durbin",
                         "firstName": "Richard",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/richard-durbin.jpg"
                     }
                 ],
                 "contested": "no",
@@ -630,7 +655,8 @@
                     {
                         "lastName": "Kirk",
                         "firstName": "Mark",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/mark-kirk.jpg"
                     }
                 ],
                 "contested": "yes",
@@ -650,7 +676,7 @@
         ]
     },
     {
-        "stateName": "Indian",
+        "stateName": "Indiana",
         "abreviation": "IN",
         "seat": [
             {
@@ -658,7 +684,8 @@
                     {
                         "lastName": "Coats",
                         "firstName": "Daniel",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/daniel-coats.jpg"
                     }
                 ],
                 "contested": "yes",
@@ -680,7 +707,8 @@
                     {
                         "lastName": "Donnelly",
                         "firstName": "Joe",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/joe-donnelly.jpg"
                     }
                 ],
                 "contested": "no",
@@ -708,7 +736,8 @@
                     {
                         "lastName": "Ernst",
                         "firstName": "Joni",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/joni-ernst.jpg"
                     }
                 ],
                 "contested": "no",
@@ -730,7 +759,8 @@
                     {
                         "lastName": "Grassley",
                         "firstName": "Chuck",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/chuck-grassley.jpg"                       
                     }
                 ],
                 "contested": "yes",
@@ -758,7 +788,9 @@
                     {
                         "lastName": "Moran",
                         "firstName": "Jerry",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/jerry-moran.jpg"
+                        
                     }
                 ],
                 "contested": "yes",
@@ -780,7 +812,8 @@
                     {
                         "lastName": "Roberts",
                         "firstName": "Pat",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/pat-roberts.jpg"
                     }
                 ],
                 "contested": "no",
@@ -808,7 +841,8 @@
                     {
                         "lastName": "McConnell",
                         "firstName": "Mitch",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/mitch-mcconnell.jpg"
                     }
                 ],
                 "contested": "no",
@@ -830,7 +864,8 @@
                     {
                         "lastName": "Paul",
                         "firstName": "Rand",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/rand-paul.jpg"
                     }
                 ],
                 "contested": "yes",
@@ -858,7 +893,8 @@
                     {
                         "lastName": "Cassidy",
                         "firstName": "Bill",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/bill-cassidy.jpg"
                     }
                 ],
                 "contested": "no",
@@ -880,7 +916,8 @@
                     {
                         "lastName": "Vitter",
                         "firstName": "David",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/david-vitter.jpg"
                     }
                 ],
                 "contested": "yes",
@@ -908,7 +945,8 @@
                     {
                         "lastName": "Collins",
                         "firstName": "Susan",
-                        "party": "Republcan"
+                        "party": "Republcan",
+                        "image": "../images/susan-collins.jpg"
                     }
                 ],
                 "contested": "no",
@@ -930,7 +968,8 @@
                     {
                         "lastName": "King",
                         "firstName": "Angus",
-                        "party": "Independant"
+                        "party": "Independant",
+                        "image": "../images/angus-king.jpg"
                     }
                 ],
                 "contested": "no",
@@ -956,9 +995,10 @@
             {
                 "incumbent": [
                     {
-                        "lastName": "Benjamin",
-                        "firstName": "Cardin",
-                        "party": "Democrat"
+                        "lastName": "Cardin",
+                        "firstName": "Benjamin",
+                        "party": "Democrat",
+                        "image": "../images/benjamin-cardin.jpg"
                     }
                 ],
                 "contested": "no",
@@ -980,7 +1020,8 @@
                     {
                         "lastName": "Mikulski",
                         "firstName": "Barbara",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/barbara-mikulski.jpg"
                     }
                 ],
                 "contested": "yes",
@@ -1008,7 +1049,8 @@
                     {
                         "lastName": "Markey",
                         "firstName": "Edward",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/edward-markey.jpg"
                     }
                 ],
                 "contested": "no",
@@ -1030,7 +1072,8 @@
                     {
                         "lastName": "Warren",
                         "firstName": "Elizabeth",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/elizabeth-warren.jpg"
                     }
                 ],
                 "contested": "no",
@@ -1058,7 +1101,8 @@
                     {
                         "lastName": "Peters",
                         "firstName": "Gary",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/gary-peters.jpg"
                     }
                 ],
                 "contested": "no",
@@ -1080,7 +1124,8 @@
                     {
                         "lastName": "Stabenow",
                         "firstName": "Debbie",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/debbie-stabenow.jpg"
                     }
                 ],
                 "contested": "no",
@@ -1108,7 +1153,8 @@
                     {
                         "lastName": "Franken",
                         "firstName": "Al",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/al-franken.jpg"
                     }
                 ],
                 "contested": "no",
@@ -1130,7 +1176,8 @@
                     {
                         "lastName": "Klobuchar",
                         "firstName": "Amy",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/amy-klobuchar.jpg"
                     }
                 ],
                 "contested": "no",
@@ -1158,7 +1205,8 @@
                     {
                         "lastName": "Cochran",
                         "firstName": "Thad",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/thad-cochran.jpg"
                     }
                 ],
                 "contested": "no",
@@ -1180,7 +1228,8 @@
                     {
                         "lastName": "Wicker",
                         "firstName": "Roger",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/roger-wicker.jpg"
                     }
                 ],
                 "contested": "no",
@@ -1208,7 +1257,8 @@
                     {
                         "lastName": "Blunt",
                         "firstName": "Roy",
-                        "party": "Republican"
+                        "party": "Republican",
+                        "image": "../images/roy-blunt.jpg"
                     }
                 ],
                 "contested": "yes",
@@ -1230,7 +1280,8 @@
                     {
                         "lastName": "McCaskill",
                         "firstName": "Claire",
-                        "party": "Democrat"
+                        "party": "Democrat",
+                        "image": "../images/claire-mccaskill.jpg"
                     }
                 ],
                 "contested": "no",
