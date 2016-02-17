@@ -38,17 +38,27 @@
       </h4>
     </div>
     <div id="{{ 'collapse' + senateSeats.stateName }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{ 'heading' + senateSeats.statename }}">
-        <div ng-repeat="office in senateSeats.seat" class="panel-body">
-            <div ng-repeat="senateIncumbent in office.incumbent" class="row">
+        <div ng-repeat="office in senateSeats.seat">
+        <div  ng-repeat="senateIncumbent in office.incumbent" class="panel-body {{base.partyColor(senateIncumbent.party)}}">
+            <div  class="row ">
                 <div class="col-md-3 col-sm-3 col-xs-5">
                     <img class="incumbent-image" src="{{senateIncumbent.image}}"/>
                 </div>
                 <div class="col-md-4 col-sm-4 col-xs-4">
-                    <div>{{senateIncumbent.firstName}} {{senateIncumbent.lastName}} is a senator from {{senateSeats.stateName}}. {{senateIncumbent.lastName}} is a {{senateIncumbent.party}}. This Senate seat {{base.contestedSeat(office.contested)}} up for election.</div>
-                   
-                <div class="col-md-5 col-sm-5 col-xs-3"></div>
-            </div>
+                    <div>Current Representative</div>
+                    <div>{{senateIncumbent.firstName}} {{senateIncumbent.lastName}} is a senator from {{senateSeats.stateName}}. {{senateIncumbent.lastName}} is a {{senateIncumbent.party}}. This Senate seat {{base.contestedSeat(office.contested)}} up for election this year.</div>
+                </div>
+                <div class="col-md-5 col-sm-5 col-xs-3">
+                    <div ng-repeat="candidates in office.candidate">
+                        <ul class="list-inline">
+                            <li>
+                                <a href="#" title="Header" data-toggle="popover" data-placement="right" data-content="Content">{{candidates.firstName}} {{candidates.lastName}}</a>
+                            </li>
+                        </ul>
+                     </div>
+                </div>
         </div>
+    </div>
     </div>
   </div>
 </div>
@@ -66,5 +76,12 @@
         
         <!-- Bootstrap JS -->
         <script type="text/javascript" src="js/bootstrap.min.js"></script>
+        
+       <script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover();   
+});
+</script>
+
     </body>
 </html>

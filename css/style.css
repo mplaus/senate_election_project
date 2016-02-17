@@ -1,5 +1,9 @@
-.party-color {
-    background-color: red;
+.republican {
+    background-color: #FF6349;
+}
+
+.democrat {
+    background-color: #437899;
 }
 
 .incumbent-image{

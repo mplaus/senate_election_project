@@ -36,6 +36,20 @@ var app = angular.module('myApp', []);
             return "is"
         }
     }
+    
+   this.partyColor = function(party){
+        if (party == "Democrat") {
+           return "democrat"
+        }
+        else if (party == "Republican") {
+            return "republican"
+        }
+        else {
+            return "independent"
+        }
+    }
    
 
 }]);
+    
+    
