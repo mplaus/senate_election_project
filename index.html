@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- angular -->
         <script type="text/javascript" src="js/angular.js"></script>
 
@@ -11,15 +13,34 @@
         <link rel="stylesheet" href="css/bootstrap.css" />
         <link rel="stylesheet" href="css/style.css" />
         
+         <!-- Jquery -->
+        <script type="text/javascript" src="js/jquery-1.12.0.min.js"></script>
+        
+        <!-- Bootstrap JS -->
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+            <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular-animate.js"></script>
+    <script src="http://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-1.1.2.js"></script>
+        
+        <!--Title Font-->
+        <link href='https://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
+        
     </head>
 
     <body ng-app="myApp">
 
         <div class="container" ng-controller="BaseController as base">
             <div class="row">
+                <div class="col-md-3 col-sm-2 col-xs-2"></div>
+                <div class="col-md-7 col-sm-2 col-xs-2">
+                    <h1 class="title-font"=>2<font class="red-letter">0</font>1<font class="blue-letter">6</font> <font class="red-letter">S</font>en<font class="blue-letter">a</font>te El<font class="blue-letter">e</font>cti<font class="red-letter">o</font>ns</h1>
+                </div>
+                <div class="col-md-3 col-sm-2 col-xs-2"></div>
+            </div>
+            <div class="row">
                 <div class="col-md-2 col-sm-2 col-xs-2"></div>
                 <div class="col-md-8 col-sm-8 col-xs-8">
-                    <input ng-model="search" type="text" class="form-control" placeholder="Search for...">
+                    <h4 class="directions">Find out if a senator in your state is up for a election</h4>
+                    <input ng-model="search" type="text" class="form-control my-search-bar" placeholder="Search for...">
                 </div>
                 <div class="col-md-2 col-sm-2 col-xs-2"></div>
             </div>
@@ -32,15 +53,15 @@
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingOne">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="{{ '#collapse' + senateSeats.stateName }}" aria-expanded="false" aria-controls="{{ 'collapseOne' + senateSeats.stateName }}">
+        <a data-toggle="collapse" href="{{ '#collapse' + senateSeats.abreviation }}" aria-expanded="false" aria-controls="{{ 'collapse' + senateSeats.abreviaion }}">
           {{senateSeats.stateName}}
         </a>
       </h4>
     </div>
-    <div id="{{ 'collapse' + senateSeats.stateName }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{ 'heading' + senateSeats.statename }}">
+    <div id="{{ 'collapse' + senateSeats.abreviation }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{ 'heading' + senateSeats.statename }}">
         <div ng-repeat="office in senateSeats.seat">
-        <div  ng-repeat="senateIncumbent in office.incumbent" class="panel-body {{base.partyColor(senateIncumbent.party)}}">
-            <div  class="row ">
+        <div  ng-repeat="senateIncumbent in office.incumbent" class="panel-body ">
+            <div  class="row {{base.partyColor(senateIncumbent.party)}}">
                 <div class="col-md-3 col-sm-3 col-xs-5">
                     <img class="incumbent-image" src="{{senateIncumbent.image}}"/>
                 </div>
@@ -50,11 +71,7 @@
                 </div>
                 <div class="col-md-5 col-sm-5 col-xs-3">
                     <div ng-repeat="candidates in office.candidate">
-                        <ul class="list-inline">
-                            <li>
-                                <a href="#" title="Header" data-toggle="popover" data-placement="right" data-content="Content">{{candidates.firstName}} {{candidates.lastName}}</a>
-                            </li>
-                        </ul>
+                        <button popover-placement="bottom" uib-popover="{{candidates.firstName}} {{candidates.lastName}} {{candidates.party}} {{candidates.bio}} {{candidates.imgae}} {{candidates.platform1}} {{candidates.platform2}} {{candidates.platform3}}" type="button" class="btn btn-default">{{candidates.firstName}} {{candidates.lastName}}</button>
                      </div>
                 </div>
         </div>
@@ -65,23 +82,19 @@
     </div>
   </div>
   
+  
+
+ 
+</div>
 
         </div>
 
 
 
 
-        <!-- Jquery -->
-        <script type="text/javascript" src="js/jquery-1.12.0.min.js"></script>
+       
         
-        <!-- Bootstrap JS -->
-        <script type="text/javascript" src="js/bootstrap.min.js"></script>
-        
-       <script>
-$(document).ready(function(){
-    $('[data-toggle="popover"]').popover();   
-});
-</script>
+       
 
     </body>
 </html>

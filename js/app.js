@@ -1,4 +1,4 @@
-var app = angular.module('myApp', []);
+var app = angular.module('myApp', ['ngAnimate', 'ui.bootstrap']);
     
     app.controller('BaseController', ['$http', function ($http) {
 
@@ -48,8 +48,41 @@ var app = angular.module('myApp', []);
             return "independent"
         }
     }
+    
+    app.filter("emptyIfBlank", function() { return function(object, query){
+    if(!query)
+        return {}
+    else
+        return object;
+}});
    
 
 }]);
     
+//angular.module('ui.bootstrap.demo', ['ngAnimate', 'ui.bootstrap']);
+app.controller('PopoverDemoCtrl', function ($scope) {
+  $scope.dynamicPopover = {
+    content: 'Hello, World!',
+    templateUrl: 'myPopoverTemplate.html',
+    title: 'Title'
+  };
+
+  $scope.placement = {
+    options: [
+      'top',
+      'top-left',
+      'top-right',
+      'bottom',
+      'bottom-left',
+      'bottom-right',
+      'left',
+      'left-top',
+      'left-bottom',
+      'right',
+      'right-top',
+      'right-bottom'
+    ],
+    selected: 'top'
+  };
+});
     

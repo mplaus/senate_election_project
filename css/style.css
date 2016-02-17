@@ -1,9 +1,21 @@
-.republican {
-    background-color: #FF6349;
+.blue-letter {
+    color: #437899;
 }
 
 .democrat {
     background-color: #437899;
+    padding: 15px 15px 14px 15px;
+    margin: -15px -15px -15px -15px;
+}
+
+.directions {
+    padding-left: 10px;
+}
+
+.independent{
+    background-color: #2B9465;
+    padding: 15px 15px 14px 15px;
+    margin: -15px -15px -15px -15px;
 }
 
 .incumbent-image{
@@ -11,3 +23,35 @@
     width: auto;
     border-radius: 10px;
 }
+
+.my-search-bar {
+    margin-bottom: 50px;
+}
+
+.panel-default {
+     border-color: transparent; 
+}
+
+.red-letter {
+    color: #C8585C;
+}
+
+.republican {
+    background-color: #C8585C;
+    padding: 15px 15px 14px 15px;
+    margin: -15px -15px -15px -15px;
+    /*border-bottom: 1px solid gray;
+    border-left: 1px solid black;
+    border-right: 1px solid black;*/
+    
+}
+
+.title-font {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30%;
+    font-size: 3.3em;
+    margin-bottom: 50px;
+}
+
+
+

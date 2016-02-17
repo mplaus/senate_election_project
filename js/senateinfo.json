@@ -955,7 +955,7 @@
                     {
                         "lastName": "Collins",
                         "firstName": "Susan",
-                        "party": "Republcan",
+                        "party": "Republican",
                         "image": "../images/susan-collins.jpg"
                     }
                 ],
@@ -1319,7 +1319,7 @@
                     {
                         "lastName": "Daines",
                         "firstName": "Steve",
-                        "party": "Republcian",
+                        "party": "Republican",
                         "image": "../images/steve-daines.jpg"
                     }
                 ],
