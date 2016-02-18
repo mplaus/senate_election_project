@@ -12,8 +12,17 @@
     padding-left: 10px;
 }
 
+.first-switch:click{
+    
+}
+
+.hover-panel:hover{
+    background-color: #C2C2C2;
+    cursor: pointer;
+}
+
 .independent{
-    background-color: #2B9465;
+    background-color: #34B37A;
     padding: 15px 15px 14px 15px;
     margin: -15px -15px -15px -15px;
 }

@@ -56,8 +56,26 @@ var app = angular.module('myApp', ['ngAnimate', 'ui.bootstrap']);
         return object;
 }});
    
+   //toggle function
+this.column = "last";
+ 
+this.toggle = false;
+
+this.toggleIt = function(column) {
+    console.log("Hi britanny");
+   
+   
+   if (this.column == column) {
+     this.toggle = !this.toggle;
+   };
+   this.column = column;
+}
 
 }]);
+    
+   
+   
+
     
 //angular.module('ui.bootstrap.demo', ['ngAnimate', 'ui.bootstrap']);
 app.controller('PopoverDemoCtrl', function ($scope) {

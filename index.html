@@ -40,20 +40,28 @@
                 <div class="col-md-2 col-sm-2 col-xs-2"></div>
                 <div class="col-md-8 col-sm-8 col-xs-8">
                     <h4 class="directions">Find out if a senator in your state is up for a election</h4>
-                    <input ng-model="search" type="text" class="form-control my-search-bar" placeholder="Search for...">
-                </div>
+                    <div class="input-group my-search-bar">
+                        <input ng-model="search" type="text" class="form-control" placeholder="Search for a state senator or candidate">
+                        <span class="input-group-btn ">
+                            <button class="btn btn-default" type="button" ng-click="base.toggleIt('last')">
+                                <span class="glyphicon glyphicon-triangle-bottom first-switch"></span>
+                            </button>
+                        </span>
+                    </div>
+                 </div>   
                 <div class="col-md-2 col-sm-2 col-xs-2"></div>
             </div>
+            
            
        
   <div class="row">
     <div class="col-md-1"></div>
     <div class="col-md-10">
-        <div ng-repeat= "senateSeats in base.senateData | filter: search" class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+        <div ng-repeat= "senateSeats in base.senateData | filter: search | orderBy: base.column : base.toggle" class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingOne">
+    <div class="panel-heading hover-panel" role="tab" id="headingOne" data-toggle="collapse" href="{{ '#collapse' + senateSeats.abreviation }}" aria-expanded="false" aria-controls="{{ 'collapse' + senateSeats.abreviaion }}">
       <h4 class="panel-title">
-        <a data-toggle="collapse" href="{{ '#collapse' + senateSeats.abreviation }}" aria-expanded="false" aria-controls="{{ 'collapse' + senateSeats.abreviaion }}">
+        <a>
           {{senateSeats.stateName}}
         </a>
       </h4>
@@ -71,7 +79,7 @@
                 </div>
                 <div class="col-md-5 col-sm-5 col-xs-3">
                     <div ng-repeat="candidates in office.candidate">
-                        <button popover-placement="bottom" uib-popover="{{candidates.firstName}} {{candidates.lastName}} {{candidates.party}} {{candidates.bio}} {{candidates.imgae}} {{candidates.platform1}} {{candidates.platform2}} {{candidates.platform3}}" type="button" class="btn btn-default">{{candidates.firstName}} {{candidates.lastName}}</button>
+                        <button popover-placement="bottom" uib-popover="{{candidates.firstName}} {{candidates.lastName}}s {{candidates.party}} {{candidates.bio}} {{candidates.imgae}} {{candidates.platform1}} {{candidates.platform2}} {{candidates.platform3}}" type="button" class="btn btn-default">{{candidates.firstName}} {{candidates.lastName}}</button>
                      </div>
                 </div>
         </div>
