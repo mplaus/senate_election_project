@@ -29,19 +29,31 @@
     <body ng-app="myApp">
 
         <div class="container" ng-controller="BaseController as base">
+            <!--Title-->
             <div class="row">
                 <div class="col-md-3 col-sm-2 col-xs-2"></div>
-                <div class="col-md-7 col-sm-2 col-xs-2">
-                    <h1 class="title-font"=>2<font class="red-letter">0</font>1<font class="blue-letter">6</font> <font class="red-letter">S</font>en<font class="blue-letter">a</font>te El<font class="blue-letter">e</font>cti<font class="red-letter">o</font>ns</h1>
+                <div class="col-md-7 col-sm-8 col-xs-9">
+                    <h1 class="title-font">2<font class="red-letter">0</font>1<font class="blue-letter">6</font> <font class="red-letter">S</font>en<font class="blue-letter">a</font>te El<font class="blue-letter">e</font>cti<font class="red-letter">o</font>ns</h1>
                 </div>
-                <div class="col-md-3 col-sm-2 col-xs-2"></div>
+                <div class="col-md-3 col-sm-2 col-xs-1"></div>
             </div>
+            
+            <!--Description-->
             <div class="row">
-                <div class="col-md-2 col-sm-2 col-xs-2"></div>
-                <div class="col-md-8 col-sm-8 col-xs-8">
+                <div class="col-md-3 col-sm-2 col-xs-2"></div>
+                <div class="col-md-6 col-sm-8 col-xs-9">
+                  <div class="description">Every incumbent senator and whether they are up for election this year is listed below. The candidates running for open seats are also listed.  </div>
+                </div>
+                <div class="col-md-3 col-sm-2 col-xs-1"></div>
+            </div>
+            
+            <!--Directions and searchbar-->
+            <div class="row">
+                <div class="col-md-2 col-sm-1 col-xs-1"></div>
+                <div class="col-md-8 col-sm-10 col-xs-10">
                     <h4 class="directions">Find out if a senator in your state is up for a election</h4>
                     <div class="input-group my-search-bar">
-                        <input ng-model="search" type="text" class="form-control" placeholder="Search for a state senator or candidate">
+                        <input ng-model="search" type="text" class="form-control" placeholder="Search for a state, senator, or candidate">
                         <span class="input-group-btn ">
                             <button class="btn btn-default" type="button" ng-click="base.toggleIt('last')">
                                 <span class="glyphicon glyphicon-sort"></span>
@@ -49,7 +61,7 @@
                         </span>
                     </div>
                  </div>   
-                <div class="col-md-2 col-sm-2 col-xs-2"></div>
+                <div class="col-md-2 col-sm-1 col-xs-1"></div>
             </div>
             
            

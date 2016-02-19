@@ -60,10 +60,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -112,9 +109,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {}
-                ]
+                "candidate": []
             }
         ]
     },
@@ -998,14 +993,14 @@
                 "contested": "yes",
                 "candidate": [
                      {
-                        "lastName": "Donald Dickson",
-                        "firstName": "Freddie",
+                        "lastName": "Donna",
+                        "firstName": "Edwards",
                         "party": "Democrat",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "bio": "Congresswoman Edwards has enjoyed a diverse career as a nonprofit public interest advocate and in the private sector on NASA’s Spacelab project.  In 1994, as co-founder and executive director of the National Network to End Domestic Violence, she led the effort to pass the Violence Against Women Act that was signed into law by President Clinton.",
+                        "image": "./images/donna-edwards.jpg",
+                        "platform1": "focuses on creating jobs",
+                        "platform2": "priotizes increasing high school graduation rates",
+                        "platform3": "wants to increase ifrastructure spending"
                     },
                     {
                         "lastName": "Edwards",
@@ -1171,14 +1166,30 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Blunt",
+                        "firstName": "Roy",
+                        "party": "Republican",
+                        "bio": "A fifth generation Missourian, Roy Blunt was born in a doctor’s office in Niangua, Missouri. His mom and dad were dairy farmers in Southwest Missouri and taught him the intrinsic value of a day’s hard work. - See more at: http://www.royblunt.com/about-roy/#sthash.SVhSqY7j.dpuf",
+                        "image": "../images/roy-blunt.jpg",
+                        "platform1": "wants to cut government spending",
+                        "platform2": "prioritizes agriculture",
+                        "platform3": "has stood against obamacare"
+                    },
+                    {
+                       "lastName": "Batsche",
+                       "firstName": "Christopher"
+                    },
+                    {
+                       "lastName": "Kander",
+                       "firstName": "Jason"
+                    },
+                    {
+                       "lastName": "Alam",
+                       "firstName": "Rabbi"
+                    },
+                    {
+                       "lastName": "Bush",
+                       "firstName": "Cori"
                     }
                 ]
             },
@@ -1284,14 +1295,18 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Cortez Masto",
+                        "firstName": "Catherine",
+                        "party": "Democrat",
+                        "bio": "Cortez Masto served two terms as Nevada’s Attorney General and became well known for her integrity and leadership on behalf of Nevada families, women, and seniors.",
+                        "image": "../images/catherine-masto.jpg",
+                        "platform1": "prioritizes job creation",
+                        "platform2": "wants to prevent trade deals that will result in shipping jobs overseas",
+                        "platform3": "focuses on protecting seniors"
+                    },
+                    {
+                       "lastName": "Heck",
+                       "firstName": "Joe"
                     }
                 ]
             }
@@ -1313,14 +1328,18 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Ayotte",
+                        "firstName": "Kelly",
+                        "party": "Republican",
+                        "bio": "First elected to the Senate in 2010, Kelly has distinguished herself as an independent and pragmatic leader who stands up for the people of New Hampshire and works across party lines to find solutions to our nation's biggest challenges.",
+                        "image": "../images/kelly-ayotte.jpg",
+                        "platform1": "prioritizes reducing budget deficit",
+                        "platform2": "wants to reduce dependence on foreign energy",
+                        "platform3": "focuses on reforming healthcare"
+                    },
+                    {
+                       "lastName": "Hassan",
+                       "firstname": "Maggie"
                     }
                 ]
             },
@@ -1426,14 +1445,14 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Schumer",
+                        "firstName": "Charles",
+                        "party": "Democrat",
+                        "bio": "U.S. Senator Charles “Chuck” Ellis Schumer has dedicated his career to protecting the middle class and helping those working to reach it. Though he has become a leader in finding common sense solutions to national issues, Chuck has built a reputation as a tireless fighter for New York, visiting all 62 counties every year and talking to constituents in every corner of our state.",
+                        "image": "../images/charles-schumer.jpg",
+                        "platform1": "prioritizes improving the economy",
+                        "platform2": "focuses on agriculture",
+                        "platform3": "led charge to make college tuition tax deductible"
                     }
                 ]
             }
@@ -1455,14 +1474,42 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Burr",
+                        "firstName": "Richard",
+                        "party": "Republican",
+                        "bio": "Richard Mauze Burr is the senior United States Senator from North Carolina having served since 2005.",
+                        "image": "../images/richard-burr.jpg",
+                        "platform1": "prioritizes job growth",
+                        "platform2": "focuses on education",
+                        "platform3": "commited to national securtiy"
+                    },
+                    {
+                      "lastName": "Brannon",
+                      "firstName": "Greg"
+                    },
+                    {
+                      "lastName": "Holmquist",
+                      "firstName": "Larry"
+                    },
+                    {
+                      "lastName": "Wright",
+                      "firstName": "Paul"
+                    },
+                    {
+                      "lastName": "Ross",
+                      "firstName": "Deborah"
+                    },
+                    {
+                      "lastName": "Rey",
+                      "firstName": "Chris"
+                    },
+                    {
+                      "lastName": "Griffin",
+                      "firstName": "Kevin"
+                    },
+                    {
+                      "lastName": "Reeves",
+                      "firstName": "Ernest"
                     }
                 ]
             },
@@ -1508,14 +1555,18 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Hoeven",
+                        "firstName": "John",
+                        "party": "Republican",
+                        "bio": "On January 5, 2011, John Hoeven was sworn in as North Dakota’s 22nd U.S. Senator, following ten years of service as the state’s governor.",
+                        "image": "../images/john-hoeven.jpg",
+                        "platform1": "prioritizes agrigulture",
+                        "platform2": "focuses on promoting job growth",
+                        "platform3": "wants to develop the energy sector"
+                    },
+                    {
+                       "lastName": "Robert",
+                       "firstName": "Marquette"
                     }
                 ]
             }
@@ -1549,14 +1600,30 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Portman",
+                        "firstName": "Rob",
+                        "party": "Republican",
+                        "bio": "Rob Portman is a United States Senator from the state of Ohio. He was elected in 2010, running a campaign that focused on commonsense conservative ideas to help create jobs and get the deficit under control. Rob won with a margin of 57 to 39 percent, winning 82 of Ohio's 88 counties.",
+                        "image": "../images/rob-portman.jpg",
+                        "platform1": "promotes policies to create jobs",
+                        "platform2": "focuses on reforming healthcare",
+                        "platform3": "wants to reduce the deficit"
+                    },
+                    {
+                       "lastName": "Eckhart",
+                       "firstName": "Don"
+                    },
+                    {
+                       "lastName": "Sittenfeld",
+                       "firstName": "P.G."
+                    },
+                    {
+                       "lastName": "Strickland",
+                       "firstName": "Ted"
+                    },
+                    {
+                       "lastName": "Prather",
+                       "firstName": "Kelli"
                     }
                 ]
             }
@@ -1576,7 +1643,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [ ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -1590,14 +1657,14 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Lankford",
+                        "firstName": "James",
+                        "party": "Republican",
+                        "bio": "After serving four years in the U.S. House of Representatives, James was elected to the U.S. Senate on November 4, 2014, to finish the remaining two years of retiring Senator Tom Coburn's term, which will end January 2017.",
+                        "image": "../images/james-lankford.jpg",
+                        "platform1": "prioritizes fighting ISIL",
+                        "platform2": "focuses on education",
+                        "platform3": "wants a cost of living adjustment for those recieving social security"
                     }
                 ]
             }
@@ -1631,14 +1698,30 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Wyden",
+                        "firstName": "Ron",
+                        "party": "Democrat",
+                        "bio": "Ron Wyden was elected to the US Senate in 1996, after serving in the US House of Representatives for 15 years, and holds the Senate seat once held by his mentor, the late Wayne Morse.",
+                        "image": "../images/ron-wyden.jpg",
+                        "platform1": "prioritises consumer rights",
+                        "platform2": "focuses on fighting climate change",
+                        "platform3": "fights for digital privacy"
+                    },
+                    {
+                       "lastName": "Callahan",
+                       "firstName": "Mark"
+                    },
+                    {
+                       "lastName": "Laschober",
+                       "firstName": "Dan"
+                    },
+                    {
+                       "lastName": "Stewart",
+                       "firstName": "Faye"
+                    },
+                    {
+                       "lastName": "Stine",
+                       "firstName": "Kevin"
                     }
                 ]
             }
@@ -1672,14 +1755,30 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Toomey",
+                        "firstName": "Patrick",
+                        "party": "Republican",
+                        "bio": "Patrick Joseph Toomey is an American businessman and politician. He is the junior United States Senator for Pennsylvania.",
+                        "image": "../images/patrick-toomey.jpg",
+                        "platform1": "prioritizes limited government",
+                        "platform2": "wants to create job growth",
+                        "platform3": "focuses on restoring fiscal responsibility in the federal government"
+                    },
+                    {
+                       "lastName": "McGinty",
+                       "firstName": "Kathleen"
+                    },
+                    {
+                       "lastName": "Sestak",
+                       "firstName": "Joe"
+                    },
+                    {
+                       "lastName": "Fetterman",
+                       "firstName": "John"
+                    },
+                    {
+                       "lastName": "Vodvarka",
+                       "firstName": "Joseph"
                     }
                 ]
             }
@@ -1743,14 +1842,18 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Scott",
+                        "firstName": "Tim",
+                        "party": "Republican",
+                        "bio": "Timothy Eugene Scott is the junior United States Senator for South Carolina.",
+                        "image": "../images/tim-scott.jpg",
+                        "platform1": "wants to stop commmon core",
+                        "platform2": "is pro-life",
+                        "platform3": "prioritizes cutting excess spending"
+                    },
+                    {
+                       "lastName": "Dickerson",
+                       "firstName": "Joyce"
                     }
                 ]
             }
@@ -1784,14 +1887,14 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Thune",
+                        "firstName": "Johne",
+                        "party": "Republican",
+                        "bio": "John Thune grew up in Murdo, South Dakota. His interest in politics was sparked at a young age after making five of six free throws during a freshman high school basketball game. He was later greeted by a spectator who said, “I noticed you missed one.” That spectator happened to be well-known sports enthusiast and South Dakota U.S. Representative Jim Abdnor. The introduction was the start of a friendship that ignited John’s career in public service.",
+                        "image": "../images/john-thune.jpg",
+                        "platform1": "focuses on agriculture",
+                        "platform2": "prioritizes education",
+                        "platform3": "wants to create energy independence for the United States"
                     }
                 ]
             }
@@ -1888,11 +1991,15 @@
                         "lastName": "Lee",
                         "firstName": "Mike",
                         "party": "Republican",
-                        "bio": "",
+                        "bio": "Elected in 2010 as Utah's 16th Senator, Mike Lee has spent his career defending the basic liberties of Americans and Utahns as a tireless advocate for our founding constitutional principles.",
                         "image": "../images/mike-lee.jpg",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "platform1": "prioritizes creating equal opportunity in society",
+                        "platform2": "wants to create better programs to aid working families",
+                        "platform3": "focuses on creating better public transportation systems"
+                    },
+                    {
+                       "lastName" : "Swinton",
+                       "firstName": "Jonathan"
                     }
                 ]
             }
@@ -2005,7 +2112,7 @@
                         "platform1": "prioritizes agriculture",
                         "platform2": "wants to close ACA loopholes",
                         "platform3": "focuses on defense"
-                    }
+                    },
                     {
                        "lastName": "Vance",
                        "firstName": "Chris"
@@ -2085,9 +2192,10 @@
                     {
                        "lastName": "Feingold",
                        "firstName": "Russ"
-                    },
+                    }
+              ]
             }
-        ]
+       ]
     },
     {
         "stateName": "Wyoming",

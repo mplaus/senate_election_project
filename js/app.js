@@ -29,7 +29,7 @@ var app = angular.module('myApp', ['ngAnimate', 'ui.bootstrap']);
   };
   
     this.contestedSeat = function(election){
-        if (election == "yes") {
+        if (election == "no") {
             return "is not";
         }
         else {
@@ -62,7 +62,6 @@ this.column = "last";
 this.toggle = false;
 
 this.toggleIt = function(column) {
-    console.log("Hi britanny");
    
    
    if (this.column == column) {
@@ -71,7 +70,7 @@ this.toggleIt = function(column) {
    this.column = column;
 }
 
-//Popover dispay candidates
+//Popover display candidates
 this.accessCandidate = function (state, runner) {
     console.log(runner)
     for (i= 0; i < this.senateData.length; i++) {

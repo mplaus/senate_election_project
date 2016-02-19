@@ -8,12 +8,16 @@
     margin: -15px -15px -15px -15px;
 }
 
-.directions {
+.description {
     padding-left: 10px;
+    color: #5E5E5E;
+    font-size: 14px;
+    margin-bottom: 15px;
 }
 
-.first-switch:click{
-    
+.directions {
+    padding-left: 10px;
+    color: #5E5E5E;
 }
 
 .hover-panel:hover{
@@ -30,7 +34,8 @@
 .incumbent-image{
     height: 150px;
     width: auto;
-    border-radius: 10px;
+    border-radius: 3px;
+    margin-left: -20px;
 }
 
 .my-search-bar {
@@ -41,6 +46,15 @@
      border-color: transparent; 
 }
 
+.panel-body {
+    color: black;
+    font-size: 16px;
+}
+
+.pop-content:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
 .red-letter {
     color: #C8585C;
 }
@@ -55,11 +69,18 @@
     
 }
 
+.sub-title {
+    color: black;
+    font-size: 22px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+
 .title-font {
     font-family: 'Roboto', sans-serif;
     margin-top: 30%;
     font-size: 3.3em;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 
