@@ -44,7 +44,7 @@
                         <input ng-model="search" type="text" class="form-control" placeholder="Search for a state senator or candidate">
                         <span class="input-group-btn ">
                             <button class="btn btn-default" type="button" ng-click="base.toggleIt('last')">
-                                <span class="glyphicon glyphicon-triangle-bottom first-switch"></span>
+                                <span class="glyphicon glyphicon-sort"></span>
                             </button>
                         </span>
                     </div>
@@ -79,7 +79,7 @@
                 </div>
                 <div class="col-md-5 col-sm-5 col-xs-3">
                     <div ng-repeat="candidates in office.candidate">
-                        <button popover-placement="bottom" uib-popover="{{candidates.firstName}} {{candidates.lastName}}s {{candidates.party}} {{candidates.bio}} {{candidates.imgae}} {{candidates.platform1}} {{candidates.platform2}} {{candidates.platform3}}" type="button" class="btn btn-default">{{candidates.firstName}} {{candidates.lastName}}</button>
+                        <button popover-placement="bottom" uib-popover="enterCandidate" ng-click="base.accessCandidate(senateSeats.stateName, candidates.lastName)" type="button" class="btn btn-default">{{candidates.firstName}} {{candidates.lastName}}</button>
                      </div>
                 </div>
         </div>

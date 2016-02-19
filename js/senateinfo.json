@@ -20,19 +20,35 @@
                         "party": "Republican",
                         "bio": "Richard Shelby is a Republican Senator from Alabam. He recieved his degree in law from the Birmingham School of Law.",
                         "image": "../richard-shelby.jpg",
-                        "platform1": "Shelby is Pro-life.",
-                        "platform2": "Shelby believes marriage is between a man and woman.",
-                        "platform3": "Shely wants stronger immigration laws and security."
+                        "platform1": "is Pro-life.",
+                        "platform2": "believes marriage is between a man and woman.",
+                        "platform3": "wants stronger immigration laws and security."
                     },
                     {
                         "lastName": "Bowman",
-                        "firstName": "Marcus",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "firstName": "Marcus"
+                    },
+                    {
+                       "lastName": "Martin", 
+                       "firstName": "John"
+                    },
+                    {
+                       "lastName": " McConnell",
+                       "firstName": "Jonathan"
+                    },
+                    {
+                       "lastName": "McGill",
+                       "firstName": "Shadrack"
+                    },
+                    {
+                       "lastName": "Charles",
+                       "firstName": "Nana"
+                    },
+                    {
+                       "lastName": "Crumpton",
+                       "firsName": "Ron"
+                    }
+ 
                     }
                 ]
             },
@@ -48,14 +64,6 @@
                 "contested": "no",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
                     }
                 ]
             }
@@ -80,11 +88,19 @@
                         "lastName": "Murkowski",
                         "firstName": "Lisa",
                         "party": "Republican",
-                        "bio": "",
+                        "bio": "Senator Lisa Murkowski is the first Alaskan-born Senator and only the sixth United States Senator to serve the state.",
                         "image": "../images/lisa-murkowski.jpg",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "platform1": "priorities the second amendment",
+                        "platform2": "seeks to bring quality healthcare",
+                        "platform3": "cares about Alaska's fisheries"
+                    },
+                    {
+                       "lastName": "Lamb",
+                       "firstName": "Thomas"
+                    },
+                     {
+                       "lastName": "Stevens",
+                       "firstName": "Cean"
                     }
                 ]
             },
@@ -99,16 +115,7 @@
                 ],
                 "contested": "no",
                 "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
+                    {}
                 ]
             }
         ]
@@ -127,18 +134,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -155,11 +151,35 @@
                         "lastName": "McCain",
                         "firstName": "John",
                         "party": "Republican",
-                        "bio": "../images/john-mccain.jpg",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "bio": "John McCain entered the Naval Academy in June of 1954. He served in the United States Navy until 1981.He was elected to the U.S. House of Representatives from Arizona in 1982 and elected to the United States Senate in 1986.",
+                        "image": "../images/john-mccain.jpg",
+                        "platform1": "supports keeping our farmers out of the red and cutting burdensome regulations ",
+                        "platform2": "has consistently and vigorously fought to ensure the right to bear arms guaranteed by the Second Amendment is not infringed upon",
+                        "platform3": "believes that the role of the judiciary is to interpret the Constitution and laws created by Congress, not become activist, misconstrue legislative intent, or create their own laws"
+                    },
+                    {
+                       "lastName": "Clark",
+                       "firstName": "Lennie"
+                    },
+                    {
+                       "lastName": "Kirkpatrick",
+                       "firstName": "Ann"
+                    },
+                    {
+                       "lastName": "Meluskey",
+                       "firstName": "Alex"
+                    },
+                    {
+                       "lastName": "Pizer",
+                       "firstName": "David"
+                    },
+                    {
+                       "lastName": "Van Steenwyk",
+                       "firstName": "Clair"
+                    },
+                    {
+                       "lastName": "Ward",
+                       "firstName": "Kelli"
                     }
                 ]
             }
@@ -184,11 +204,23 @@
                         "lastName": "Boozman",
                         "firstName": "John",
                         "party": "Republican",
-                        "bio": "",
+                        "bio": "John Boozman, a successful businessman and life-long resident of Arkansas, was elected to the United States Senate in 2010, taking office in January of 2011. ",
                         "image": "../images/john-boozman.jpg",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "platform1": "opposes President Obama’s unilateral, and unconstitutional, actions to grant amnesty to millions of illegal immigrants and support efforts to turn back this power grab",
+                        "platform2": "supports a pro-growth economic agenda",
+                        "platform3": "protect secondond amendment rights"
+                    },
+                    {
+                       "lastName": "Coleman",
+                       "firstName": "Curtis"
+                    },
+                    {
+                       "lastName": "Eldridge",
+                       "firstName": "Conner"
+                    },
+                    {
+                       "lastName": "Gilbert",
+                       "firstName": "Frank"
                     }
                 ]
             },
@@ -202,18 +234,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -233,9 +254,9 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
+                        "lastName": "Boxer",
+                        "firstName": "Barbara",
+                        "party": "Democrat",
                         "bio": "",
                         "image": "",
                         "platform1": "",
@@ -254,18 +275,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -288,11 +298,27 @@
                         "lastName": "Bennet",
                         "firstName": "Michael",
                         "party": "Democrat",
-                        "bio": "",
+                        "bio": "Michael F. Bennet was elected United States Senator for Colorado in November 2010. A newcomer to politics with experience in business and public service, he is widely-recognized as a pragmatic, innovative and independent thinker driven by a deep-seated obligation to create more opportunity for the next generation.",
                         "image": "../images/michael-bennet.jpg",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "platform1": "priorities agriculture",
+                        "platform2": "wants to conserve the environment",
+                        "platform3": "focuses on education"
+                    },
+                    {
+                       "lastName": "Harris",
+                       "firstName": "Kamala"
+                    },
+                    {
+                       "lastName": "Sanchez",
+                       "firstName": "Loretta"
+                    },
+                    {
+                       "lastName": "Del Beccaro",
+                       "firstName": "Tom"
+                    },
+                    {
+                       "lastName": "Sundheim",
+                       "firstName": "Duf"
                     }
                 ]
             },
@@ -306,18 +332,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -340,11 +355,15 @@
                         "lastName": "Blumenthal",
                         "firstName": "Richard",
                         "party": "Democrat",
-                        "bio": "",
+                        "bio": "Sworn in on January 5, 2011, Richard Blumenthal is serving his first term as a United States Senator from the State of Connecticut. ",
                         "image": "../images/richard-blumenthal.jpg",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "platform1": "prioites advancement of civil rights",
+                        "platform2": "focuses on consumer protection",
+                        "platform3": "seeks to grow the economy"
+                    },
+                    {
+                       "lastName": "Wolf",
+                       "firstName": "August"
                     }
                 ]
             },
@@ -358,18 +377,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -387,18 +395,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": [ ]
             },
             {
                 "incumbent": [
@@ -410,18 +407,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": [ ]
             }
         ]
     },
@@ -439,18 +425,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": [  ]
             },
             {
                 "incumbent": [
@@ -464,14 +439,38 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "DeSantis",
+                        "firstName": "Ron",
+                        "party": "Republcan",
+                        "bio": "Ron DeSantis is a native Floridian with blue collar roots who knows the value of hard work. He worked his way through Yale University, where he graduated magna cum laude and was the captain of the varsity baseball team. He also graduated with honors from Harvard Law School.",
+                        "image": "../images/ron-desantis.jpg",
+                        "platform1": "will get government out of the way of agriculture so that American farmers and ranchers can build their businesses, compete as exporters, and create jobs",
+                        "platform2": "believes in upholding strong family values",
+                        "platform3": "prioritizes second amendment rights"
+                    },
+                    {
+                       "lastName": "Jolly",
+                       "firstName": "David"
+                    },
+                     {
+                       "lastName": "Lopez-Cantera",
+                       "firstName": "Carlos"
+                    },
+                     {
+                       "lastName": "Wilcox",
+                       "firstName": "Todd"
+                    },
+                     {
+                       "lastName": "Murphy",
+                       "firstName": "Patrick"
+                    },
+                     {
+                       "lastName": "Grasyon",
+                       "firstName": "Alan"
+                    },
+                     {
+                       "lastName": "Keith",
+                       "firstName": "Pam"
                     }
                 ]
             }
@@ -493,14 +492,22 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Isakson",
+                        "firstName": "Johnny",
+                        "party": "Republican",
+                        "bio": "Johnny Isakson is a businessman who has built a respected record of public service to the state of Georgia.",
+                        "image": "../images/johnny-isakson.jpg",
+                        "platform1": "prioritises agriculture",
+                        "platform2": "has a five-point plan for boosting our economy ",
+                        "platform3": "passionate about education"
+                    },
+                    {
+                       "lastName": "Benedict",
+                       "firstName": "Lee"
+                    },
+                    {
+                       "lastName": "Grayson",
+                       "firstName": "Derrick"
                     }
                 ]
             },
@@ -514,18 +521,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -543,18 +539,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": [ ]
             },
             {
                 "incumbent": [
@@ -568,14 +553,18 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Schatz",
+                        "firstName": "Brian",
+                        "party": "Democrat",
+                        "bio": "Senator Brian Schatz has dedicated his career to public service as a strong advocate for Hawai‘i’s middle-class families, a clean energy economy, seniors, our veterans, and Native Hawaiians.",
+                        "image": "../images/brian-schatz.jpg",
+                        "platform1": "prioritises civil rights and equality",
+                        "platform2": "focuses on education",
+                        "platform3": "has a domestic clean energy plan"
+                    },
+                    {
+                       "lastName": "Collins",
+                       "firstName": "Charles"
                     }
                 ]
             }
@@ -597,14 +586,14 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Crapo",
+                        "firstName": "Mike",
+                        "party": "Republican",
+                        "bio": "As a lifelong Idahoan, Mike Crapo has learned that a willingness to listen makes for a more effective leader and lawmaker.",
+                        "image": "../images/mike-crapo.jpg",
+                        "platform1": "focuses on agriculture",
+                        "platform2": "prioritizes the arts",
+                        "platform3": "wants to develop banking and financial services"
                     }
                 ]
             },
@@ -618,18 +607,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -647,18 +625,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -701,14 +668,22 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
+                        "lastName": "Hill",
+                        "firstName": "Baron",
+                        "party": "Democrat",
                         "bio": "",
-                        "image": "",
+                        "image": "../images/baron-hill.jpg",
                         "platform1": "",
                         "platform2": "",
                         "platform3": ""
+                    },
+                    {
+                        "lastName": "Stutzman",
+                        "firstName": "Marlin"
+                    },
+                    {
+                        "lastName": "Young",
+                        "firstName": "Todd"
                     }
                 ]
             },
@@ -722,18 +697,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -751,18 +715,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -776,14 +729,26 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Grassley",
+                        "firstName": "Chuck",
+                        "party": "Republican",
+                        "bio": "In Washington, Senator Grassley has been a leader in shaping legislation to improve the quality of life for Americans and to expand the economic opportunities for individuals, families and communities.",
+                        "image": "../images/chuck-grassley.jpg",
+                        "platform1": "prioritizes agriculture",
+                        "platform2": "focuses on adoption foster care and welfare",
+                        "platform3": "is looking to cut services"
+                    },
+                    {
+                        "lastName": "Hogg",
+                        "firstName": "Rob"
+                    },
+                    {
+                        "lastName": "Fiegen",
+                        "firstName": "Tom"
+                    },
+                    {
+                        "lastName": "Krause",
+                        "firstName": "Bob"
                     }
                 ]
             }
@@ -806,14 +771,18 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Moran",
+                        "firstName": "Jerry",
+                        "party": "Republican",
+                        "bio": "Raised in Plainville, Kansas, Senator Jerry Moran was taught from an early age the value of a hard day’s work, looking after one’s neighbors, and serving his community. These same values guide him today as he serves Kansans in the United States Senate.",
+                        "image": "../images/jerry-moran.jpg",
+                        "platform1": "prioritizes agriculture",
+                        "platform2": "has a vested interest in the aviation industry",
+                        "platform3": "emphasizes cutting government spending"
+                    },
+                     {
+                        "lastName": "Wiesner",
+                        "firstName": "Patrick"
                     }
                 ]
             },
@@ -827,18 +796,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -856,18 +814,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -881,14 +828,22 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Paul",
+                        "firstName": "Rand",
+                        "party": "Republican",
+                        "bio": "Senator Rand Paul, M.D. is one of the nation’s leading advocates for liberty. Elected to the U.S. Senate in 2010, Dr. Paul has proven to be an outspoken champion for constitutional liberties and fiscal responsibility",
+                        "image": "../images/rand-paul.jpg",
+                        "platform1": "wants to cut back spending and debt",
+                        "platform2": "focus on ending NSA spying",
+                        "platform3": "prioritizes tax code reform"
+                    },
+                    {
+                        "lastName": "Wiesner",
+                        "firstName": "Patrick"
+                    },
+                    {
+                        "lastName": "Wiesner",
+                        "firstName": "Patrick"
                     }
                 ]
             }

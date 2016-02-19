@@ -71,6 +71,27 @@ this.toggleIt = function(column) {
    this.column = column;
 }
 
+//Popover dispay candidates
+this.accessCandidate = function (state, runner) {
+    console.log(runner)
+    for (i= 0; i < this.senateData.length; i++) {
+        if (state == this.senateData[i].stateName) {
+            for (j = 0; j < 1; j++) {
+                for (k = 0; k < this.senateData[i].seat[j].candidate.length; k++) {
+                    if (runner == this.senateData[i].seat[j].candidate[k].lastName) {
+                        document.write = "Dick Whitman";
+                    }
+                }
+                
+                //if (runner == this.senateData[i].seat[j].candidate) {
+                //    console.log("apples and bannanas");
+                //    
+                //}
+            }  
+        }
+    }
+    }
+
 }]);
     
    
@@ -102,5 +123,7 @@ app.controller('PopoverDemoCtrl', function ($scope) {
     ],
     selected: 'top'
   };
+  
+  
 });
     
