@@ -48,8 +48,6 @@
                        "lastName": "Crumpton",
                        "firsName": "Ron"
                     }
- 
-                    }
                 ]
             },
             {
@@ -671,11 +669,11 @@
                         "lastName": "Hill",
                         "firstName": "Baron",
                         "party": "Democrat",
-                        "bio": "",
+                        "bio": "Baron Paul Hill is the former U.S. Representative for Indiana's 9th congressional district, serving from 1999 to 2005 and from 2007 to 2011. He is a member of the Democratic Party.",
                         "image": "../images/baron-hill.jpg",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "platform1": "believes in marriage equality",
+                        "platform2": "wants to restore the middle class",
+                        "platform3": "wants to take special interests out of politics"
                     },
                     {
                         "lastName": "Stutzman",
@@ -838,12 +836,40 @@
                         "platform3": "prioritizes tax code reform"
                     },
                     {
-                        "lastName": "Wiesner",
-                        "firstName": "Patrick"
+                        "lastName": "Gray",
+                        "firstName": "Jim"
                     },
                     {
-                        "lastName": "Wiesner",
-                        "firstName": "Patrick"
+                        "lastName": "Houlihan",
+                        "firstName": "Rory"
+                    },
+                    {
+                        "lastName": "Kender",
+                        "firstName": "Jeff"
+                    },
+                    {
+                        "lastName": "Leach",
+                        "firstName": "Ron"
+                    },
+                    {
+                        "lastName": "Recktenwald",
+                        "firstName": "Tom"
+                    },
+                    {
+                        "lastName": "Short",
+                        "firstName": "Grant"
+                    },
+                    {
+                        "lastName": "Wilder",
+                        "firstName": "Sellus"
+                    },
+                    {
+                        "lastName": "Gould",
+                        "firstName": "James"
+                    },
+                    {
+                        "lastName": "Slaughter",
+                        "firstName": "Stephen"
                     }
                 ]
             }
@@ -863,18 +889,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -888,14 +903,38 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Boustany",
+                        "firstName": "Charles",
+                        "party": "Republican",
+                        "bio": "Congressman Charles W. Boustany Jr., M.D., a cardiovascular surgeon with more than 30 years of clinical experience, was first elected to Congress in 2004.  Boustany represents Louisiana’s Third Congressional District, covering South Louisiana.",
+                        "image": "../images/charles-boustany.jpg",
+                        "platform1": "championed healthcare reform",
+                        "platform2": "prioritizes tax reform",
+                        "platform3": "wants to promote international trade"
+                    },
+                    {
+                        "lastName": "Cao",
+                        "firstName": "Joseph"
+                    },
+                    {
+                        "lastName": "Fleming",
+                        "firstName": "John"
+                    },
+                    {
+                        "lastName": "Kennedy",
+                        "firstName": "John"
+                    },
+                    {
+                        "lastName": "Maness",
+                        "firstName": "Rob"
+                    },
+                    {
+                        "lastName": "Hebert",
+                        "firstName": "Troy"
+                    },
+                    {
+                        "lastName": "Fayard",
+                        "firstName": "Caroline"
                     }
                 ]
             }
@@ -915,18 +954,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -938,18 +966,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -967,18 +984,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -991,15 +997,39 @@
                 ],
                 "contested": "yes",
                 "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
+                     {
+                        "lastName": "Donald Dickson",
+                        "firstName": "Freddie",
+                        "party": "Democrat",
                         "bio": "",
                         "image": "",
                         "platform1": "",
                         "platform2": "",
                         "platform3": ""
+                    },
+                    {
+                        "lastName": "Edwards",
+                        "firstName": "Donna"
+                    },
+                    {
+                        "lastName": "Ralph",
+                        "firstName": "Edwards"
+                    },
+                    {
+                        "lastName": "Jaffe",
+                        "firstName": "Ralph"
+                    },
+                    {
+                        "lastName": "Scaldaferri",
+                        "firstName": "Theresa"
+                    },
+                    {
+                        "lastName": "Smith",
+                        "firstName": "Charles"
+                    },
+                    {
+                        "lastName": "Staley",
+                        "firstName": "Violet"
                     }
                 ]
             }
@@ -1019,18 +1049,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -1042,18 +1061,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -1071,18 +1079,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -1094,18 +1091,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -1123,18 +1109,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -1146,18 +1121,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -1175,18 +1139,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -1198,18 +1151,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -1250,18 +1192,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -1279,18 +1210,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -1302,18 +1222,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -1331,18 +1240,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -1354,18 +1252,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -1383,18 +1270,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -1458,18 +1334,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -1487,18 +1352,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -1510,18 +1364,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -1539,18 +1382,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -1562,18 +1394,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -1591,18 +1412,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -1666,18 +1476,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -1695,18 +1494,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -1747,18 +1535,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -1799,18 +1576,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": [ ]
             },
             {
                 "incumbent": [
@@ -1851,18 +1617,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -1903,18 +1658,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -1955,18 +1699,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -1978,18 +1711,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -2007,18 +1729,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -2059,18 +1770,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -2111,18 +1811,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -2134,18 +1823,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -2163,18 +1841,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -2186,18 +1853,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -2215,18 +1871,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -2240,11 +1885,11 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
+                        "lastName": "Lee",
+                        "firstName": "Mike",
+                        "party": "Republican",
                         "bio": "",
-                        "image": "",
+                        "image": "../images/mike-lee.jpg",
                         "platform1": "",
                         "platform2": "",
                         "platform3": ""
@@ -2269,14 +1914,14 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Leahy",
+                        "firstName": "Patrick",
+                        "party": "Democrat",
+                        "bio": "Patrick Joseph Leahy is an American politician and the senior United States Senator from Vermont. He has been in office since 1975.",
+                        "image": "../images/patrick-leahy.jpg",
+                        "platform1": "prioritizes forest conservation",
+                        "platform2": "opposes the keystone pipeline",
+                        "platform3": "wants to address internation human rights issues"
                     }
                 ]
             },
@@ -2290,18 +1935,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -2319,18 +1953,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -2342,18 +1965,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -2371,18 +1983,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -2396,14 +1997,18 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "lastName": "Murray",
+                        "firstName": "Patty",
+                        "party": "Democrat",
+                        "bio": "As Washington state’s senior Senator, Patty Murray has a proven track record spanning more than two decades of fighting for Washington state in the United States Senate.",
+                        "image": "../images/patty-murray.jpg",
+                        "platform1": "prioritizes agriculture",
+                        "platform2": "wants to close ACA loopholes",
+                        "platform3": "focuses on defense"
+                    }
+                    {
+                       "lastName": "Vance",
+                       "firstName": "Chris"
                     }
                 ]
             }
@@ -2423,18 +2028,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -2447,18 +2041,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     },
@@ -2476,18 +2059,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -2501,16 +2073,19 @@
                 "contested": "yes",
                 "candidate": [
                     {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                        "lastName": "Johnson",
+                        "firstName": "Ron",
+                        "party": "Republican",
+                        "bio": "Ronald Johnson is the senior United States Senator for Wisconsin and a member of the Republican Party. Prior to his election to the Senate, he was chief executive officer of PACUR, LLC, a polyester and plastics manufacturer.",
+                        "image": "../images/ron-johnson.jpg",
+                        "platform1": "wants to cut government spending",
+                        "platform2": "prioritizes homeland security",
+                        "platform3": "focuses on job creation"
+                    },
+                    {
+                       "lastName": "Feingold",
+                       "firstName": "Russ"
+                    },
             }
         ]
     },
@@ -2528,18 +2103,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             },
             {
                 "incumbent": [
@@ -2551,18 +2115,7 @@
                     }
                 ],
                 "contested": "no",
-                "candidate": [
-                    {
-                        "lastName": "",
-                        "firstName": "",
-                        "party": "",
-                        "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
-                    }
-                ]
+                "candidate": []
             }
         ]
     }
