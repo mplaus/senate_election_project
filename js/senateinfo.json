@@ -85,7 +85,7 @@
                         "party": "Republican",
                         "bio": "Senator Lisa Murkowski is the first Alaskan-born Senator and only the sixth United States Senator to serve the state.",
                         "image": "../images/lisa-murkowski.jpg",
-                        "platform1": "priorities the second amendment",
+                        "platform1": "prioritizes the second amendment",
                         "platform2": "seeks to bring quality healthcare",
                         "platform3": "cares about Alaska's fisheries"
                     },
@@ -551,7 +551,7 @@
                         "party": "Democrat",
                         "bio": "Senator Brian Schatz has dedicated his career to public service as a strong advocate for Hawai‘i’s middle-class families, a clean energy economy, seniors, our veterans, and Native Hawaiians.",
                         "image": "../images/brian-schatz.jpg",
-                        "platform1": "prioritises civil rights and equality",
+                        "platform1": "prioritizes civil rights and equality",
                         "platform2": "focuses on education",
                         "platform3": "has a domestic clean energy plan"
                     },

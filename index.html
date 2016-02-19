@@ -105,7 +105,15 @@
                               <h4 class="modal-title">{{candidates.firstName}} {{candidates.lastName}}</h4>
                             </div>
                             <div class="modal-body">
-                              <img src="{{candidates.image}}"/>
+                              <img class="incumbent-image pop-image" src="{{candidates.image}}"/>
+                              <div>Bio:</div>
+                              <div class="pop-bio">{{candidates.bio}}</div>
+                              <div class="pop-list-head">{{candidates.firstName}} {{candidates.lastName}}:</div>
+                              <ul>
+                                <li>{{candidates.platform1}}</li>
+                                <li>{{candidates.platform2}}</li>
+                                <li>{{candidates.platform3}}</li>
+                              </ul>
                             </div>
                             <div class="modal-footer">
                               <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
