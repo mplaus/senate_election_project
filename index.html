@@ -96,7 +96,25 @@
                 </div>
                 <div class="col-md-1 col-sm-1 col-xs-1"></div>
                 <div class="col-md-5 col-sm-5 col-xs-3" ng-repeat="candidates in office.candidate">
-                        <div "pop-content">{{candidates.firstName}} {{candidates.lastName}}</div>
+                        <div class="pop-content" data-toggle="modal" data-target="#myModal{{candidates.firstName}}{{candidates.lastName}}">{{candidates.firstName}} {{candidates.lastName}}</div>
+                        <div class="modal fade" id="myModal{{candidates.firstName}}{{candidates.lastName}}" role="dialog">
+                        <div class="modal-dialog modal-sm">
+                          <div class="modal-content">
+                            <div class="modal-header">
+                              <button type="button" class="close" data-dismiss="modal">&times;</button>
+                              <h4 class="modal-title">{{candidates.firstName}} {{candidates.lastName}}</h4>
+                            </div>
+                            <div class="modal-body">
+                              <img src="{{candidates.image}}"/>
+                            </div>
+                            <div class="modal-footer">
+                              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                            </div>
+                          </div>
+                        </div>
+  </div>
+</div> 
+                        
                 </div>
             </div>
         </div>
@@ -106,10 +124,6 @@
         </div>
     </div>
     </div>
-
-
-
-
        
         
        
