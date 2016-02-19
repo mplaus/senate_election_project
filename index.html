@@ -65,7 +65,7 @@
             </div>
             
            
-       
+      <!--Panels--> 
   <div class="row">
     <div class="col-md-1"></div>
     <div class="col-md-10">
@@ -82,32 +82,30 @@
         <div ng-repeat="office in senateSeats.seat">
         <div  ng-repeat="senateIncumbent in office.incumbent" class="panel-body ">
             <div  class="row {{base.partyColor(senateIncumbent.party)}}">
-                <div class="col-md-3 col-sm-3 col-xs-5">
+                <div class="row">
+                    <div class="col-md-1 col-sm-4 col-xs-4"></div>
+                    <div class="col-md-6 col-sm-4 col-xs-4 sub-title">Current Representative</div>
+                    <div class="col-md-5 col-sm-4 col-xs-4 sub-title">Candidates</div>
+                </div>
+                <div class="col-md-1 col-sm-3 col-xs-5"></div>
+                <div class="col-md-2 col-sm-3 col-xs-5">
                     <img class="incumbent-image" src="{{senateIncumbent.image}}"/>
                 </div>
-                <div class="col-md-4 col-sm-4 col-xs-4">
-                    <div>Current Representative</div>
-                    <div>{{senateIncumbent.firstName}} {{senateIncumbent.lastName}} is a senator from {{senateSeats.stateName}}. {{senateIncumbent.lastName}} is a {{senateIncumbent.party}}. This Senate seat {{base.contestedSeat(office.contested)}} up for election this year.</div>
+                <div class="col-md-3 col-sm-4 col-xs-4">
+                    <div>{{senateIncumbent.firstName}} {{senateIncumbent.lastName}} is a {{senateIncumbent.party}} senator from {{senateSeats.stateName}}. This Senate seat {{base.contestedSeat(office.contested)}} up for election this year.</div>
                 </div>
-                <div class="col-md-5 col-sm-5 col-xs-3">
-                    <div ng-repeat="candidates in office.candidate">
-                        <button popover-placement="bottom" uib-popover="enterCandidate" ng-click="base.accessCandidate(senateSeats.stateName, candidates.lastName)" type="button" class="btn btn-default">{{candidates.firstName}} {{candidates.lastName}}</button>
-                     </div>
+                <div class="col-md-1 col-sm-1 col-xs-1"></div>
+                <div class="col-md-5 col-sm-5 col-xs-3" ng-repeat="candidates in office.candidate">
+                        <div "pop-content">{{candidates.firstName}} {{candidates.lastName}}</div>
                 </div>
+            </div>
+        </div>
         </div>
     </div>
     </div>
-  </div>
-</div>
-    </div>
-  </div>
-  
-  
-
- 
-</div>
-
         </div>
+    </div>
+    </div>
 
 
 
