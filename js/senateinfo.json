@@ -201,7 +201,7 @@
                         "image": "../images/john-boozman.jpg",
                         "platform1": "opposes President Obama’s unilateral, and unconstitutional, actions to grant amnesty to millions of illegal immigrants and support efforts to turn back this power grab",
                         "platform2": "supports a pro-growth economic agenda",
-                        "platform3": "protect secondond amendment rights"
+                        "platform3": "protect second amendment rights"
                     },
                     {
                        "lastName": "Coleman",
@@ -251,10 +251,22 @@
                         "firstName": "Barbara",
                         "party": "Democrat",
                         "bio": "",
-                        "image": "",
-                        "platform1": "",
-                        "platform2": "",
-                        "platform3": ""
+                        "image": "../images/barbara-boxer.jpg",
+                        "platform1": "is a leader on environmental protection",
+                        "platform2": "focuses on global women's issues",
+                        "platform3": "prioritizes creating new jobs"
+                    },
+                    {
+                       "lastName": "Sanchez",
+                       "firstName": "Loretta"
+                    },
+                    {
+                       "lastName": "Del Beccaro",
+                       "firstName": "Tom"
+                    },
+                    {
+                       "lastName": "Sundheim",
+                       "firstName": "Duf"
                     }
                 ]
             },
@@ -293,7 +305,7 @@
                         "party": "Democrat",
                         "bio": "Michael F. Bennet was elected United States Senator for Colorado in November 2010. A newcomer to politics with experience in business and public service, he is widely-recognized as a pragmatic, innovative and independent thinker driven by a deep-seated obligation to create more opportunity for the next generation.",
                         "image": "../images/michael-bennet.jpg",
-                        "platform1": "priorities agriculture",
+                        "platform1": "prioritizes agriculture",
                         "platform2": "wants to conserve the environment",
                         "platform3": "focuses on education"
                     },
@@ -350,7 +362,7 @@
                         "party": "Democrat",
                         "bio": "Sworn in on January 5, 2011, Richard Blumenthal is serving his first term as a United States Senator from the State of Connecticut. ",
                         "image": "../images/richard-blumenthal.jpg",
-                        "platform1": "prioites advancement of civil rights",
+                        "platform1": "prioritizes advancement of civil rights",
                         "platform2": "focuses on consumer protection",
                         "platform3": "seeks to grow the economy"
                     },
@@ -490,7 +502,7 @@
                         "party": "Republican",
                         "bio": "Johnny Isakson is a businessman who has built a respected record of public service to the state of Georgia.",
                         "image": "../images/johnny-isakson.jpg",
-                        "platform1": "prioritises agriculture",
+                        "platform1": "prioritizes agriculture",
                         "platform2": "has a five-point plan for boosting our economy ",
                         "platform3": "passionate about education"
                     },
@@ -1703,7 +1715,7 @@
                         "party": "Democrat",
                         "bio": "Ron Wyden was elected to the US Senate in 1996, after serving in the US House of Representatives for 15 years, and holds the Senate seat once held by his mentor, the late Wayne Morse.",
                         "image": "../images/ron-wyden.jpg",
-                        "platform1": "prioritises consumer rights",
+                        "platform1": "prioritizes consumer rights",
                         "platform2": "focuses on fighting climate change",
                         "platform3": "fights for digital privacy"
                     },

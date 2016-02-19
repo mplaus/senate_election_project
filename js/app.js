@@ -70,26 +70,6 @@ this.toggleIt = function(column) {
    this.column = column;
 }
 
-//Popover display candidates
-this.accessCandidate = function (state, runner) {
-    console.log(runner)
-    for (i= 0; i < this.senateData.length; i++) {
-        if (state == this.senateData[i].stateName) {
-            for (j = 0; j < 1; j++) {
-                for (k = 0; k < this.senateData[i].seat[j].candidate.length; k++) {
-                    if (runner == this.senateData[i].seat[j].candidate[k].lastName) {
-                        document.write = "Dick Whitman";
-                    }
-                }
-                
-                //if (runner == this.senateData[i].seat[j].candidate) {
-                //    console.log("apples and bannanas");
-                //    
-                //}
-            }  
-        }
-    }
-    }
 
 }]);
     
@@ -97,32 +77,5 @@ this.accessCandidate = function (state, runner) {
    
 
     
-//angular.module('ui.bootstrap.demo', ['ngAnimate', 'ui.bootstrap']);
-app.controller('PopoverDemoCtrl', function ($scope) {
-  $scope.dynamicPopover = {
-    content: 'Hello, World!',
-    templateUrl: 'myPopoverTemplate.html',
-    title: 'Title'
-  };
 
-  $scope.placement = {
-    options: [
-      'top',
-      'top-left',
-      'top-right',
-      'bottom',
-      'bottom-left',
-      'bottom-right',
-      'left',
-      'left-top',
-      'left-bottom',
-      'right',
-      'right-top',
-      'right-bottom'
-    ],
-    selected: 'top'
-  };
-  
-  
-});
     
